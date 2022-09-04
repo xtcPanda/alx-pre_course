@@ -1,3 +1,3 @@
 this is me working on git
 
-updating my readme so i can ry a pull request on it
+updating my readme so i can try a pull request on it
